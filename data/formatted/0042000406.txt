@@ -1,0 +1,37 @@
+2021-07-20
+NBA Finals Game 6
+
+Q1:
+Milwaukee Bucks 29-16 Phoenix Suns
+
+Q2:
+Milwaukee Bucks 13-31 Phoenix Suns
+
+Q3:
+Milwaukee Bucks 35-30 Phoenix Suns
+NOTABLE PERIODS:
+Giannis Antetokounmpo scores 20 points
+
+Q4:
+Milwaukee Bucks 28-21 Phoenix Suns
+
+FINAL:
+Milwaukee Bucks 105-98 Phoenix Suns
+SERIES:
+Milwaukee Bucks 4-2 Phoenix Suns
+LARGEST LEAD:
+Milwaukee Bucks 13-7 Phoenix Suns
+LEAD CHANGES:
+6
+TIMES TIED: 
+7
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Giannis Antetokounmpo MIL    42     50     14     2     
+Chris Paul           PHX    39     26     2      5     
+Devin Booker         PHX    46     19     3      5     
+Khris Middleton      MIL    40     17     5      5     
+Bobby Portis         MIL    22     16     3      0     
+Jae Crowder          PHX    40     15     13     0     
+

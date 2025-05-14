@@ -1,0 +1,40 @@
+2017-03-17
+Regular Season
+
+Q1:
+New Orleans Pelicans 36-23 Houston Rockets
+NOTABLE PERIODS:
+Lou Williams scores 15 points
+
+Q2:
+New Orleans Pelicans 32-27 Houston Rockets
+NOTABLE PERIODS:
+Alexis Ajinca scores 33 points
+Tim Frazier scores 16 points
+
+Q3:
+New Orleans Pelicans 31-31 Houston Rockets
+NOTABLE PERIODS:
+James Harden scores 17 points
+
+Q4:
+New Orleans Pelicans 29-31 Houston Rockets
+
+FINAL:
+New Orleans Pelicans 128-112 Houston Rockets
+LARGEST LEAD:
+New Orleans Pelicans 23-1 Houston Rockets
+LEAD CHANGES:
+2
+TIMES TIED: 
+0
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+James Harden         HOU    39     41     14     11    
+Solomon Hill         NOP    37     30     6      7     
+Anthony Davis        NOP    37     24     15     3     
+Jrue Holiday         NOP    27     19     4      6     
+Lou Williams         HOU    30     14     1      2     
+Montrezl Harrell     HOU    18     13     6      0     
+

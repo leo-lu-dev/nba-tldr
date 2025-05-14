@@ -1,0 +1,33 @@
+2010-12-28
+Regular Season
+
+Q1:
+San Antonio Spurs 27-18 Los Angeles Lakers
+
+Q2:
+San Antonio Spurs 15-26 Los Angeles Lakers
+
+Q3:
+San Antonio Spurs 29-18 Los Angeles Lakers
+
+Q4:
+San Antonio Spurs 26-20 Los Angeles Lakers
+
+FINAL:
+San Antonio Spurs 97-82 Los Angeles Lakers
+LARGEST LEAD:
+San Antonio Spurs 19-7 Los Angeles Lakers
+LEAD CHANGES:
+5
+TIMES TIED: 
+3
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Tony Parker          SAS    34     23     2      3     
+Kobe Bryant          LAL    30     21     5      1     
+DeJuan Blair         SAS    32     17     15     0     
+Richard Jefferson    SAS    28     15     7      2     
+Andrew Bynum         LAL    21     10     7      1     
+Metta World Peace    LAL    27     10     1      0     
+

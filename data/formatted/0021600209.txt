@@ -1,0 +1,33 @@
+2016-11-22
+Regular Season
+
+Q1:
+Atlanta Hawks 14-34 New Orleans Pelicans
+
+Q2:
+Atlanta Hawks 30-32 New Orleans Pelicans
+
+Q3:
+Atlanta Hawks 27-29 New Orleans Pelicans
+
+Q4:
+Atlanta Hawks 23-17 New Orleans Pelicans
+
+FINAL:
+Atlanta Hawks 94-112 New Orleans Pelicans
+LARGEST LEAD:
+Atlanta Hawks 3-35 New Orleans Pelicans
+LEAD CHANGES:
+3
+TIMES TIED: 
+2
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Tim Frazier          NOP    35     21     5      14    
+Terrence Jones       NOP    28     17     6      1     
+Jrue Holiday         NOP    27     15     4      4     
+Dennis Schröder      ATL    26     14     4      7     
+Kyle Korver          ATL    29     14     2      4     
+Paul Millsap         ATL    22     10     8      2     
+

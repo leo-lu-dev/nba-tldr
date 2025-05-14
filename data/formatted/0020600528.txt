@@ -1,0 +1,33 @@
+2007-01-11
+Regular Season
+
+Q1:
+Chicago Bulls 28-15 New Jersey Nets
+
+Q2:
+Chicago Bulls 21-20 New Jersey Nets
+
+Q3:
+Chicago Bulls 16-26 New Jersey Nets
+
+Q4:
+Chicago Bulls 18-25 New Jersey Nets
+
+FINAL:
+Chicago Bulls 83-86 New Jersey Nets
+LARGEST LEAD:
+Chicago Bulls 18-7 New Jersey Nets
+LEAD CHANGES:
+2
+TIMES TIED: 
+3
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Andres Nocioni       CHI    33     28     8      0     
+Jason Kidd           NJN    42     23     14     11    
+Ben Gordon           CHI    36     23     3      0     
+Kirk Hinrich         CHI    41     19     4      10    
+Vince Carter         NJN    42     18     10     6     
+Richard Jefferson    NJN    41     14     6      0     
+

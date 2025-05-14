@@ -1,0 +1,33 @@
+2025-03-27
+Regular Season
+
+Q1:
+Oklahoma City Thunder 32-33 Memphis Grizzlies
+
+Q2:
+Oklahoma City Thunder 31-26 Memphis Grizzlies
+
+Q3:
+Oklahoma City Thunder 28-30 Memphis Grizzlies
+
+Q4:
+Oklahoma City Thunder 34-15 Memphis Grizzlies
+
+FINAL:
+Oklahoma City Thunder 125-104 Memphis Grizzlies
+LARGEST LEAD:
+Oklahoma City Thunder 23-5 Memphis Grizzlies
+LEAD CHANGES:
+22
+TIMES TIED: 
+11
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Shai Gilgeous-Alexander OKC    33     37     3      6     
+Jaren Jackson Jr.    MEM    30     27     2      4     
+Jalen Williams       OKC    29     20     5      4     
+Isaiah Hartenstein   OKC    29     18     11     4     
+Scotty Pippen Jr.    MEM    31     17     10     7     
+Jaylen Wells         MEM    28     13     5      0     
+

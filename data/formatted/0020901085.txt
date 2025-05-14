@@ -1,0 +1,35 @@
+2010-03-27
+Regular Season
+
+Q1:
+Houston Rockets 34-27 Los Angeles Lakers
+NOTABLE PERIODS:
+Jermaine Taylor scores 29 points
+
+Q2:
+Houston Rockets 11-35 Los Angeles Lakers
+
+Q3:
+Houston Rockets 24-27 Los Angeles Lakers
+
+Q4:
+Houston Rockets 32-20 Los Angeles Lakers
+
+FINAL:
+Houston Rockets 101-109 Los Angeles Lakers
+LARGEST LEAD:
+Houston Rockets 9-21 Los Angeles Lakers
+LEAD CHANGES:
+8
+TIMES TIED: 
+3
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Pau Gasol            LAL    39     30     8      2     
+Luis Scola           HOU    45     28     10     5     
+Aaron Brooks         HOU    37     26     0      7     
+Kobe Bryant          LAL    36     17     9      9     
+Jermaine Taylor      HOU    29     15     5      3     
+Derek Fisher         LAL    21     15     1      3     
+

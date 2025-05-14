@@ -1,0 +1,35 @@
+2000-02-09
+Regular Season
+
+Q1:
+Utah Jazz 32-32 Chicago Bulls
+NOTABLE PERIODS:
+Karl Malone scores 16 points
+
+Q2:
+Utah Jazz 31-21 Chicago Bulls
+
+Q3:
+Utah Jazz 28-17 Chicago Bulls
+
+Q4:
+Utah Jazz 22-16 Chicago Bulls
+
+FINAL:
+Utah Jazz 113-86 Chicago Bulls
+LARGEST LEAD:
+Utah Jazz 29-5 Chicago Bulls
+LEAD CHANGES:
+10
+TIMES TIED: 
+4
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Karl Malone          UTA    30     30     10     2     
+Jeff Hornacek        UTA    24     15     2      5     
+Armen Gilliam        UTA    21     13     2      2     
+Elton Brand          CHI    21     13     3      1     
+Randy Brown          CHI    34     12     1      6     
+Metta World Peace    CHI    23     11     2      3     
+

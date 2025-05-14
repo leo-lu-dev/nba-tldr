@@ -1,0 +1,35 @@
+2019-12-10
+Regular Season
+
+Q1:
+Philadelphia 76ers 26-27 Denver Nuggets
+NOTABLE PERIODS:
+Will Barton scores 15 points
+
+Q2:
+Philadelphia 76ers 29-23 Denver Nuggets
+
+Q3:
+Philadelphia 76ers 28-26 Denver Nuggets
+
+Q4:
+Philadelphia 76ers 14-16 Denver Nuggets
+
+FINAL:
+Philadelphia 76ers 97-92 Denver Nuggets
+LARGEST LEAD:
+Philadelphia 76ers 14-7 Denver Nuggets
+LEAD CHANGES:
+7
+TIMES TIED: 
+5
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Will Barton          DEN    39     26     7      7     
+Joel Embiid          PHI    31     22     10     6     
+Tobias Harris        PHI    35     20     7      4     
+Nikola Jokić         DEN    33     15     7      11    
+Gary Harris          DEN    33     14     2      5     
+Matisse Thybulle     PHI    26     13     5      1     
+

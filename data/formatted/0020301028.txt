@@ -1,0 +1,33 @@
+2004-03-24
+Regular Season
+
+Q1:
+Indiana Pacers 28-30 Dallas Mavericks
+
+Q2:
+Indiana Pacers 20-25 Dallas Mavericks
+
+Q3:
+Indiana Pacers 31-19 Dallas Mavericks
+
+Q4:
+Indiana Pacers 24-25 Dallas Mavericks
+
+FINAL:
+Indiana Pacers 103-99 Dallas Mavericks
+LARGEST LEAD:
+Indiana Pacers 9-7 Dallas Mavericks
+LEAD CHANGES:
+6
+TIMES TIED: 
+7
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Dirk Nowitzki        DAL    39     22     7      2     
+Metta World Peace    IND    42     20     8      5     
+Al Harrington        IND    41     17     8      4     
+Reggie Miller        IND    29     16     2      4     
+Antoine Walker       DAL    29     15     11     1     
+Antawn Jamison       DAL    34     15     3      0     
+

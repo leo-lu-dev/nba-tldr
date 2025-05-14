@@ -1,0 +1,33 @@
+2017-11-07
+Regular Season
+
+Q1:
+San Antonio Spurs 32-26 LA Clippers
+
+Q2:
+San Antonio Spurs 20-29 LA Clippers
+
+Q3:
+San Antonio Spurs 40-21 LA Clippers
+
+Q4:
+San Antonio Spurs 28-31 LA Clippers
+
+FINAL:
+San Antonio Spurs 120-107 LA Clippers
+LARGEST LEAD:
+San Antonio Spurs 20-3 LA Clippers
+LEAD CHANGES:
+12
+TIMES TIED: 
+11
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+LaMarcus Aldridge    SAS    32     25     6      2     
+Austin Rivers        LAC    36     24     2      3     
+Danny Green          SAS    28     24     1      2     
+Rudy Gay             SAS    23     22     7      3     
+Lou Williams         LAC    26     17     1      3     
+Blake Griffin        LAC    34     15     9      6     
+

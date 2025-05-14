@@ -1,0 +1,33 @@
+2015-02-24
+Regular Season
+
+Q1:
+Detroit Pistons 27-30 Cleveland Cavaliers
+
+Q2:
+Detroit Pistons 35-23 Cleveland Cavaliers
+
+Q3:
+Detroit Pistons 12-24 Cleveland Cavaliers
+
+Q4:
+Detroit Pistons 19-25 Cleveland Cavaliers
+
+FINAL:
+Detroit Pistons 93-102 Cleveland Cavaliers
+LARGEST LEAD:
+Detroit Pistons 14-13 Cleveland Cavaliers
+LEAD CHANGES:
+7
+TIMES TIED: 
+12
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Kevin Love           CLE    34     24     9      3     
+Reggie Jackson       DET    35     22     8      9     
+Kentavious Caldwell-Pope DET    32     21     2      1     
+LeBron James         CLE    39     19     7      11    
+Kyrie Irving         CLE    34     18     2      5     
+Andre Drummond       DET    33     17     10     0     
+

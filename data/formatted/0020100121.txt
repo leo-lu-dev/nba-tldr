@@ -1,0 +1,33 @@
+2001-11-16
+Regular Season
+
+Q1:
+Philadelphia 76ers 21-20 Atlanta Hawks
+
+Q2:
+Philadelphia 76ers 28-19 Atlanta Hawks
+
+Q3:
+Philadelphia 76ers 22-22 Atlanta Hawks
+
+Q4:
+Philadelphia 76ers 27-17 Atlanta Hawks
+
+FINAL:
+Philadelphia 76ers 98-78 Atlanta Hawks
+LARGEST LEAD:
+Philadelphia 76ers 26-5 Atlanta Hawks
+LEAD CHANGES:
+12
+TIMES TIED: 
+6
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Aaron McKie          PHI    32     20     6      7     
+Allen Iverson        PHI    40     19     4      6     
+Dikembe Mutombo      PHI    34     16     7      1     
+Jason Terry          ATL    39     15     2      2     
+Cal Bowdler          ATL    26     14     3      0     
+Shareef Abdur-Rahim  ATL    32     12     10     4     
+

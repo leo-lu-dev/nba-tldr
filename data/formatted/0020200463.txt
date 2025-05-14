@@ -1,0 +1,33 @@
+2003-01-04
+Regular Season
+
+Q1:
+Dallas Mavericks 34-24 Philadelphia 76ers
+
+Q2:
+Dallas Mavericks 24-18 Philadelphia 76ers
+
+Q3:
+Dallas Mavericks 22-20 Philadelphia 76ers
+
+Q4:
+Dallas Mavericks 22-21 Philadelphia 76ers
+
+FINAL:
+Dallas Mavericks 102-83 Philadelphia 76ers
+LARGEST LEAD:
+Dallas Mavericks 25-1 Philadelphia 76ers
+LEAD CHANGES:
+1
+TIMES TIED: 
+0
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Dirk Nowitzki        DAL    40     29     8      3     
+Allen Iverson        PHI    35     25     4      3     
+Michael Finley       DAL    34     18     4      2     
+Steve Nash           DAL    32     16     4      8     
+Greg Buckner         PHI    35     14     3      1     
+Eric Snow            PHI    34     9      3      5     
+

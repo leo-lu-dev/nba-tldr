@@ -1,0 +1,33 @@
+2000-01-19
+Regular Season
+
+Q1:
+Los Angeles Lakers 21-24 Cleveland Cavaliers
+
+Q2:
+Los Angeles Lakers 21-26 Cleveland Cavaliers
+
+Q3:
+Los Angeles Lakers 25-23 Cleveland Cavaliers
+
+Q4:
+Los Angeles Lakers 28-13 Cleveland Cavaliers
+
+FINAL:
+Los Angeles Lakers 95-86 Cleveland Cavaliers
+LARGEST LEAD:
+Los Angeles Lakers 11-15 Cleveland Cavaliers
+LEAD CHANGES:
+6
+TIMES TIED: 
+6
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Shaquille O'Neal     LAL    42     27     23     2     
+Kobe Bryant          LAL    41     25     13     4     
+Andre Miller         CLE    19     20     2      1     
+Glen Rice            LAL    35     17     4      2     
+Brevin Knight        CLE    28     15     4      6     
+Shawn Kemp           CLE    23     14     8      1     
+

@@ -1,0 +1,43 @@
+2020-08-21
+First Round Game 3
+
+Q1:
+Philadelphia 76ers 24-26 Boston Celtics
+
+Q2:
+Philadelphia 76ers 25-25 Boston Celtics
+
+Q3:
+Philadelphia 76ers 23-25 Boston Celtics
+
+Q4:
+Philadelphia 76ers 22-26 Boston Celtics
+CLUTCH PLAYS:
+(PHI) 04:38.00 Milton 7' Driving Floating Jump Shot (17 PTS)  (PHI 90-89 BOS)
+(BOS) 03:48.00 Brown Free Throw 1 of 3 (16 PTS)  (PHI 90-90 BOS)
+(BOS) 03:48.00 Brown Free Throw 2 of 3 (17 PTS)  (PHI 90-91 BOS)
+(PHI) 03:01.00 Embiid Free Throw 2 of 2 (28 PTS)  (PHI 92-92 BOS)
+(PHI) 02:14.00 Embiid Free Throw 1 of 2 (29 PTS)  (PHI 93-92 BOS)
+(BOS) 01:37.00 Brown 4' Running Layup (20 PTS)  (PHI 94-94 BOS)
+(BOS) 01:37.00 Brown Free Throw 1 of 1 (21 PTS)  (PHI 94-95 BOS)
+
+FINAL:
+Philadelphia 76ers 94-102 Boston Celtics
+SERIES:
+Philadelphia 76ers 0-3 Boston Celtics
+LARGEST LEAD:
+Philadelphia 76ers 3-9 Boston Celtics
+LEAD CHANGES:
+10
+TIMES TIED: 
+11
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Joel Embiid          PHI    35     30     13     1     
+Kemba Walker         BOS    35     24     8      4     
+Jaylen Brown         BOS    41     21     7      3     
+Shake Milton         PHI    37     17     6      3     
+Josh Richardson      PHI    41     17     3      3     
+Jayson Tatum         BOS    32     15     6      0     
+

@@ -1,0 +1,45 @@
+1998-06-14
+NBA Finals Game 6
+
+Q1:
+Utah Jazz 25-22 Chicago Bulls
+
+Q2:
+Utah Jazz 24-23 Chicago Bulls
+NOTABLE PERIODS:
+Michael Jordan scores 15 points
+
+Q3:
+Utah Jazz 17-16 Chicago Bulls
+
+Q4:
+Utah Jazz 20-26 Chicago Bulls
+NOTABLE PERIODS:
+Michael Jordan scores 16 points
+CLUTCH PLAYS:
+(CHI) 04:46.00 Rodman Free Throw 2 of 2 (7 PTS)  (UTA 77-77 CHI)
+(UTA) 04:17.00 Malone 15' Jump Shot (29 PTS) (Russell 2 AST)  (UTA 79-77 CHI)
+(CHI) 03:44.00 Harper 15' Running Jump Shot (8 PTS)  (UTA 79-79 CHI)
+(UTA) 03:20.00 Russell Free Throw 1 of 2 (6 PTS)  (UTA 80-79 CHI)
+(CHI) 00:59.20 Jordan Free Throw 2 of 2 (41 PTS)  (UTA 83-83 CHI)
+(UTA) 00:41.90 Stockton 24' 3PT Jump Shot (10 PTS) (Malone 7 AST)  (UTA 86-83 CHI)
+(CHI) 00:05.20 Jordan 17' Jump Shot (45 PTS)  (UTA 86-87 CHI)
+
+FINAL:
+Utah Jazz 86-87 Chicago Bulls
+LARGEST LEAD:
+Utah Jazz 6-9 Chicago Bulls
+LEAD CHANGES:
+8
+TIMES TIED: 
+18
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Michael Jordan       CHI    43     45     1      1     
+Karl Malone          UTA    42     31     11     7     
+Jeff Hornacek        UTA    36     17     6      0     
+Toni Kukoc           CHI    42     15     3      4     
+John Stockton        UTA    32     10     3      5     
+Scottie Pippen       CHI    25     8      3      4     
+

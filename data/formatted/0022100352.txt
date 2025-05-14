@@ -1,0 +1,33 @@
+2021-12-05
+Regular Season
+
+Q1:
+Houston Rockets 28-26 New Orleans Pelicans
+
+Q2:
+Houston Rockets 29-23 New Orleans Pelicans
+
+Q3:
+Houston Rockets 37-36 New Orleans Pelicans
+
+Q4:
+Houston Rockets 24-23 New Orleans Pelicans
+
+FINAL:
+Houston Rockets 118-108 New Orleans Pelicans
+LARGEST LEAD:
+Houston Rockets 15-7 New Orleans Pelicans
+LEAD CHANGES:
+4
+TIMES TIED: 
+1
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Brandon Ingram       NOP    37     40     5      4     
+Eric Gordon          HOU    33     23     0      5     
+Christian Wood       HOU    31     23     8      2     
+Jonas Valančiūnas    NOP    31     17     10     3     
+Garrison Mathews     HOU    31     13     7      0     
+Nickeil Alexander-Walker NOP    27     10     1      5     
+

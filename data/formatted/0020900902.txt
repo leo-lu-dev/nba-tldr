@@ -1,0 +1,33 @@
+2010-03-03
+Regular Season
+
+Q1:
+New Jersey Nets 15-35 Cleveland Cavaliers
+
+Q2:
+New Jersey Nets 27-24 Cleveland Cavaliers
+
+Q3:
+New Jersey Nets 26-27 Cleveland Cavaliers
+
+Q4:
+New Jersey Nets 24-25 Cleveland Cavaliers
+
+FINAL:
+New Jersey Nets 92-111 Cleveland Cavaliers
+LARGEST LEAD:
+New Jersey Nets 0-22 Cleveland Cavaliers
+LEAD CHANGES:
+0
+TIMES TIED: 
+2
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+LeBron James         CLE    40     26     7      14    
+Terrence Williams    NJN    32     21     5      7     
+Brook Lopez          NJN    36     21     14     2     
+JJ Hickson           CLE    26     20     13     0     
+Antawn Jamison       CLE    37     19     9      3     
+Jianlian Yi          NJN    41     14     10     1     
+

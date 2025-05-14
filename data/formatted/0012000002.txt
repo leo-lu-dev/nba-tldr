@@ -1,0 +1,33 @@
+2020-12-11
+Preseason
+
+Q1:
+Detroit Pistons 18-22 New York Knicks
+
+Q2:
+Detroit Pistons 29-26 New York Knicks
+
+Q3:
+Detroit Pistons 14-26 New York Knicks
+
+Q4:
+Detroit Pistons 23-16 New York Knicks
+
+FINAL:
+Detroit Pistons 84-90 New York Knicks
+LARGEST LEAD:
+Detroit Pistons 7-18 New York Knicks
+LEAD CHANGES:
+10
+TIMES TIED: 
+4
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+RJ Barrett           NYK    29     15     5      2     
+Saddiq Bey           DET    19     14     2      1     
+Svi Mykhailiuk       DET    15     14     2      0     
+Julius Randle        NYK    29     11     8      6     
+Obi Toppin           NYK    20     11     7      1     
+Derrick Rose         DET    18     10     0      2     
+

@@ -1,0 +1,41 @@
+2024-01-26
+Regular Season
+
+Q1:
+Atlanta Hawks 31-27 Dallas Mavericks
+NOTABLE PERIODS:
+Luka Dončić scores 18 points
+
+Q2:
+Atlanta Hawks 35-39 Dallas Mavericks
+NOTABLE PERIODS:
+Luka Dončić scores 23 points
+
+Q3:
+Atlanta Hawks 36-42 Dallas Mavericks
+NOTABLE PERIODS:
+Luka Dončić scores 16 points
+
+Q4:
+Atlanta Hawks 41-40 Dallas Mavericks
+NOTABLE PERIODS:
+Luka Dončić scores 16 points
+
+FINAL:
+Atlanta Hawks 143-148 Dallas Mavericks
+LARGEST LEAD:
+Atlanta Hawks 6-11 Dallas Mavericks
+LEAD CHANGES:
+11
+TIMES TIED: 
+11
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Luka Dončić          DAL    44     73     10     7     
+Trae Young           ATL    33     30     1      11    
+Jalen Johnson        ATL    37     25     3      3     
+Bogdan Bogdanović    ATL    27     24     4      2     
+Josh Green           DAL    35     21     2      4     
+Tim Hardaway Jr.     DAL    32     13     4      3     
+

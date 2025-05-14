@@ -1,0 +1,33 @@
+1997-11-09
+Regular Season
+
+Q1:
+Philadelphia 76ers 26-24 Seattle SuperSonics
+
+Q2:
+Philadelphia 76ers 31-34 Seattle SuperSonics
+
+Q3:
+Philadelphia 76ers 20-30 Seattle SuperSonics
+
+Q4:
+Philadelphia 76ers 28-24 Seattle SuperSonics
+
+FINAL:
+Philadelphia 76ers 105-112 Seattle SuperSonics
+LARGEST LEAD:
+Philadelphia 76ers 7-13 Seattle SuperSonics
+LEAD CHANGES:
+10
+TIMES TIED: 
+11
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Vin Baker            SEA    41     25     12     1     
+Allen Iverson        PHI    39     23     5      10    
+Hersey Hawkins       SEA    30     18     2      3     
+Detlef Schrempf      SEA    38     17     6      6     
+Jerry Stackhouse     PHI    36     17     2      1     
+Derrick Coleman      PHI    26     17     5      0     
+

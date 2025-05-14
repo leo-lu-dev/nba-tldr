@@ -1,0 +1,33 @@
+2012-11-19
+Regular Season
+
+Q1:
+San Antonio Spurs 28-18 Los Angeles Clippers
+
+Q2:
+San Antonio Spurs 14-29 Los Angeles Clippers
+
+Q3:
+San Antonio Spurs 21-24 Los Angeles Clippers
+
+Q4:
+San Antonio Spurs 24-21 Los Angeles Clippers
+
+FINAL:
+San Antonio Spurs 87-92 Los Angeles Clippers
+LARGEST LEAD:
+San Antonio Spurs 10-10 Los Angeles Clippers
+LEAD CHANGES:
+5
+TIMES TIED: 
+1
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Tim Duncan           SAS    34     20     14     1     
+Chris Paul           LAC    36     19     4      8     
+Blake Griffin        LAC    34     16     12     0     
+Manu Ginobili        SAS    27     15     5      5     
+Matt Barnes          LAC    34     14     9      1     
+Tony Parker          SAS    32     11     2      6     
+

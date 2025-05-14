@@ -1,0 +1,33 @@
+2018-10-11
+Preseason
+
+Q1:
+LA Clippers 32-18 Haifa Maccabi Haifa
+
+Q2:
+LA Clippers 38-17 Haifa Maccabi Haifa
+
+Q3:
+LA Clippers 24-7 Haifa Maccabi Haifa
+
+Q4:
+LA Clippers 30-34 Haifa Maccabi Haifa
+
+FINAL:
+LA Clippers 124-76 Haifa Maccabi Haifa
+LARGEST LEAD:
+LA Clippers 58-0 Haifa Maccabi Haifa
+LEAD CHANGES:
+0
+TIMES TIED: 
+0
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Boban Marjanović     LAC    17     18     12     0     
+Danilo Gallinari     LAC    13     12     4      3     
+Montrezl Harrell     LAC    11     12     4      0     
+Roman Sorkin         MAC    18     12     3      0     
+Lucas Hausman        MAC    12     10     2      2     
+Daniel Koperberg     MAC    22     10     7      1     
+

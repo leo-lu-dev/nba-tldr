@@ -1,0 +1,33 @@
+2003-02-14
+Regular Season
+
+Q1:
+Memphis Grizzlies 29-31 Dallas Mavericks
+
+Q2:
+Memphis Grizzlies 25-26 Dallas Mavericks
+
+Q3:
+Memphis Grizzlies 22-28 Dallas Mavericks
+
+Q4:
+Memphis Grizzlies 27-25 Dallas Mavericks
+
+FINAL:
+Memphis Grizzlies 103-110 Dallas Mavericks
+LARGEST LEAD:
+Memphis Grizzlies 7-11 Dallas Mavericks
+LEAD CHANGES:
+12
+TIMES TIED: 
+11
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Dirk Nowitzki        DAL    42     31     6      1     
+Michael Finley       DAL    43     29     8      3     
+Pau Gasol            MEM    33     25     7      3     
+Steve Nash           DAL    34     16     2      13    
+Jason Williams       MEM    30     15     2      6     
+Wesley Person        MEM    30     14     2      1     
+

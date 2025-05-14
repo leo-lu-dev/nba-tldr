@@ -1,0 +1,33 @@
+2020-02-12
+Regular Season
+
+Q1:
+Utah Jazz 25-28 Miami Heat
+
+Q2:
+Utah Jazz 22-24 Miami Heat
+
+Q3:
+Utah Jazz 32-22 Miami Heat
+
+Q4:
+Utah Jazz 37-27 Miami Heat
+
+FINAL:
+Utah Jazz 116-101 Miami Heat
+LARGEST LEAD:
+Utah Jazz 15-9 Miami Heat
+LEAD CHANGES:
+10
+TIMES TIED: 
+8
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Donovan Mitchell     UTA    35     26     5      4     
+Jimmy Butler III     MIA    33     25     8      1     
+Bojan Bogdanović     UTA    35     22     7      4     
+Jordan Clarkson      UTA    25     21     4      3     
+Duncan Robinson      MIA    30     18     1      3     
+Jae Crowder          MIA    24     15     3      1     
+

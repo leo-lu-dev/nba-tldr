@@ -1,0 +1,33 @@
+2018-01-28
+Regular Season
+
+Q1:
+Chicago Bulls 20-26 Milwaukee Bucks
+
+Q2:
+Chicago Bulls 22-35 Milwaukee Bucks
+
+Q3:
+Chicago Bulls 30-25 Milwaukee Bucks
+
+Q4:
+Chicago Bulls 24-24 Milwaukee Bucks
+
+FINAL:
+Chicago Bulls 96-110 Milwaukee Bucks
+LARGEST LEAD:
+Chicago Bulls 4-23 Milwaukee Bucks
+LEAD CHANGES:
+1
+TIMES TIED: 
+1
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Giannis Antetokounmpo MIL    34     27     9      8     
+Khris Middleton      MIL    32     20     7      5     
+Denzel Valentine     CHI    30     18     5      4     
+Lauri Markkanen      CHI    32     17     10     2     
+Jerian Grant         CHI    31     15     4      5     
+John Henson          MIL    27     12     3      3     
+

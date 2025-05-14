@@ -1,0 +1,41 @@
+2016-06-19
+NBA Finals Game 7
+
+Q1:
+Golden State Warriors 22-23 Cleveland Cavaliers
+
+Q2:
+Golden State Warriors 27-19 Cleveland Cavaliers
+NOTABLE PERIODS:
+Draymond Green scores 15 points
+
+Q3:
+Golden State Warriors 27-33 Cleveland Cavaliers
+
+Q4:
+Golden State Warriors 13-18 Cleveland Cavaliers
+CLUTCH PLAYS:
+(CLE) 04:53.00 James 26' 3PT Pullup Jump Shot (26 PTS)  (GSW 87-89 CLE)
+(GSW) 04:39.00 Thompson 2' Driving Layup (14 PTS) (Green 9 AST)  (GSW 89-89 CLE)
+(CLE) 00:53.00 Irving 25' 3PT Pullup Jump Shot (26 PTS)  (GSW 89-92 CLE)
+
+FINAL:
+Golden State Warriors 89-93 Cleveland Cavaliers
+SERIES:
+Golden State Warriors 3-4 Cleveland Cavaliers
+LARGEST LEAD:
+Golden State Warriors 8-7 Cleveland Cavaliers
+LEAD CHANGES:
+20
+TIMES TIED: 
+11
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Draymond Green       GSW    46     32     15     9     
+LeBron James         CLE    46     27     11     11    
+Kyrie Irving         CLE    43     26     6      1     
+Stephen Curry        GSW    39     17     5      2     
+Klay Thompson        GSW    42     14     2      2     
+JR Smith             CLE    38     12     4      2     
+

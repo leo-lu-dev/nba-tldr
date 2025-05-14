@@ -1,0 +1,35 @@
+2024-10-24
+Regular Season
+
+Q1:
+Washington Wizards 32-33 Boston Celtics
+NOTABLE PERIODS:
+Jordan Poole scores 17 points
+
+Q2:
+Washington Wizards 22-31 Boston Celtics
+
+Q3:
+Washington Wizards 19-34 Boston Celtics
+
+Q4:
+Washington Wizards 29-24 Boston Celtics
+
+FINAL:
+Washington Wizards 102-122 Boston Celtics
+LARGEST LEAD:
+Washington Wizards 8-32 Boston Celtics
+LEAD CHANGES:
+6
+TIMES TIED: 
+9
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Jaylen Brown         BOS    30     27     8      3     
+Jordan Poole         WAS    32     26     1      4     
+Jayson Tatum         BOS    28     25     11     6     
+Derrick White        BOS    29     19     4      4     
+Jonas Valančiūnas    WAS    20     18     5      2     
+Kyle Kuzma           WAS    27     12     2      1     
+

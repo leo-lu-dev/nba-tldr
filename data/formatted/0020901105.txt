@@ -1,0 +1,33 @@
+2010-03-30
+Regular Season
+
+Q1:
+Milwaukee Bucks 26-19 Los Angeles Clippers
+
+Q2:
+Milwaukee Bucks 33-25 Los Angeles Clippers
+
+Q3:
+Milwaukee Bucks 23-24 Los Angeles Clippers
+
+Q4:
+Milwaukee Bucks 25-21 Los Angeles Clippers
+
+FINAL:
+Milwaukee Bucks 107-89 Los Angeles Clippers
+LARGEST LEAD:
+Milwaukee Bucks 22-1 Los Angeles Clippers
+LEAD CHANGES:
+8
+TIMES TIED: 
+3
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Ersan Ilyasova       MIL    26     20     8      2     
+Drew Gooden          LAC    28     20     11     0     
+Brandon Jennings     MIL    28     17     5      6     
+Chris Kaman          LAC    26     17     10     0     
+Jerry Stackhouse     MIL    24     16     3      3     
+Travis Outlaw        LAC    26     13     5      1     
+

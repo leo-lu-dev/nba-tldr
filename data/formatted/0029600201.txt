@@ -1,0 +1,33 @@
+1996-11-29
+Regular Season
+
+Q1:
+Atlanta Hawks 30-18 Washington Bullets
+
+Q2:
+Atlanta Hawks 32-27 Washington Bullets
+
+Q3:
+Atlanta Hawks 28-15 Washington Bullets
+
+Q4:
+Atlanta Hawks 20-21 Washington Bullets
+
+FINAL:
+Atlanta Hawks 110-81 Washington Bullets
+LARGEST LEAD:
+Atlanta Hawks 34-0 Washington Bullets
+LEAD CHANGES:
+0
+TIMES TIED: 
+1
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Mookie Blaylock      ATL    29     25     3      7     
+Dikembe Mutombo      ATL    33     25     15     0     
+Tyrone Corbin        ATL    29     17     3      2     
+Chris Webber         WAS    30     14     8      2     
+Jaren Jackson        WAS    25     13     3      3     
+Gheorghe Muresan     WAS    26     13     9      0     
+

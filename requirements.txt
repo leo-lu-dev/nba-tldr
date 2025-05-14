@@ -1,0 +1,8 @@
+transformers
+pandas
+datasets
+peft
+accelerate
+bitsandbytes
+torch
+nba_api

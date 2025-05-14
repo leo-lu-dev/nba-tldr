@@ -1,0 +1,33 @@
+2022-01-18
+Regular Season
+
+Q1:
+Golden State Warriors 33-22 Detroit Pistons
+
+Q2:
+Golden State Warriors 33-16 Detroit Pistons
+
+Q3:
+Golden State Warriors 17-25 Detroit Pistons
+
+Q4:
+Golden State Warriors 19-23 Detroit Pistons
+
+FINAL:
+Golden State Warriors 102-86 Detroit Pistons
+LARGEST LEAD:
+Golden State Warriors 34-2 Detroit Pistons
+LEAD CHANGES:
+1
+TIMES TIED: 
+0
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Klay Thompson        GSW    22     21     3      4     
+Rodney McGruder      DET    22     19     5      1     
+Andrew Wiggins       GSW    27     19     3      1     
+Stephen Curry        GSW    28     18     3      8     
+Hamidou Diallo       DET    35     16     13     0     
+Isaiah Stewart       DET    27     14     11     0     
+

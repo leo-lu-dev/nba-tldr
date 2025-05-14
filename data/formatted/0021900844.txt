@@ -1,0 +1,33 @@
+2020-02-23
+Regular Season
+
+Q1:
+Denver Nuggets 43-38 Minnesota Timberwolves
+
+Q2:
+Denver Nuggets 30-27 Minnesota Timberwolves
+
+Q3:
+Denver Nuggets 24-22 Minnesota Timberwolves
+
+Q4:
+Denver Nuggets 31-29 Minnesota Timberwolves
+
+FINAL:
+Denver Nuggets 128-116 Minnesota Timberwolves
+LARGEST LEAD:
+Denver Nuggets 22-4 Minnesota Timberwolves
+LEAD CHANGES:
+6
+TIMES TIED: 
+7
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Paul Millsap         DEN    25     25     7      0     
+Nikola Jokić         DEN    30     24     7      6     
+Kelan Martin         MIN    29     21     4      0     
+Jamal Murray         DEN    35     19     1      6     
+Malik Beasley        MIN    34     17     8      1     
+Jordan McLaughlin    MIN    33     15     4      10    
+

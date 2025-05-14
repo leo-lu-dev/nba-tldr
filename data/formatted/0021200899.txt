@@ -1,0 +1,33 @@
+2013-03-06
+Regular Season
+
+Q1:
+Charlotte Bobcats 29-26 Brooklyn Nets
+
+Q2:
+Charlotte Bobcats 24-17 Brooklyn Nets
+
+Q3:
+Charlotte Bobcats 9-28 Brooklyn Nets
+
+Q4:
+Charlotte Bobcats 16-28 Brooklyn Nets
+
+FINAL:
+Charlotte Bobcats 78-99 Brooklyn Nets
+LARGEST LEAD:
+Charlotte Bobcats 12-23 Brooklyn Nets
+LEAD CHANGES:
+4
+TIMES TIED: 
+4
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Joe Johnson          BKN    31     22     5      3     
+Deron Williams       BKN    38     20     4      8     
+Michael Kidd-Gilchrist CHA    32     17     5      1     
+Brook Lopez          BKN    32     16     5      1     
+Ben Gordon           CHA    26     16     2      0     
+Gerald Henderson     CHA    33     11     3      3     
+

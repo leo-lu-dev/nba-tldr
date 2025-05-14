@@ -1,0 +1,50 @@
+2009-11-18
+Regular Season
+
+Q1:
+Dallas Mavericks 19-21 San Antonio Spurs
+
+Q2:
+Dallas Mavericks 18-14 San Antonio Spurs
+
+Q3:
+Dallas Mavericks 26-24 San Antonio Spurs
+
+Q4:
+Dallas Mavericks 21-25 San Antonio Spurs
+CLUTCH PLAYS:
+(SAS) 03:15.00 McDyess 19' Jump Shot (4 PTS) (Hill 4 AST)  (DAL 78-78 SAS)
+(DAL) 02:29.00 Terry Free Throw 1 of 2 (10 PTS)  (DAL 79-78 SAS)
+(SAS) 02:11.00 McDyess Free Throw 2 of 2 (6 PTS)  (DAL 80-80 SAS)
+(DAL) 01:58.00 Gooden  Driving Layup (17 PTS) (Terry 2 AST)  (DAL 82-80 SAS)
+(SAS) 00:30.10 Duncan Free Throw 2 of 2 (20 PTS)  (DAL 82-82 SAS)
+(DAL) 00:14.60 Nowitzki  Running Tip Shot (30 PTS)  (DAL 84-82 SAS)
+(SAS) 00:02.30 Duncan 5' Turnaround Bank Shot (22 PTS)  (DAL 84-84 SAS)
+
+1OT:
+Dallas Mavericks 15-10 San Antonio Spurs
+CLUTCH PLAYS:
+(SAS) 04:50.00 Hill  Driving Layup (9 PTS)  (DAL 84-86 SAS)
+(DAL) 03:58.00 Nowitzki Free Throw 1 of 1 (33 PTS)  (DAL 89-89 SAS)
+(SAS) 03:12.00 Hill 21' Pullup Jump Shot (12 PTS)  (DAL 89-91 SAS)
+(DAL) 02:28.00 Nowitzki  Driving Layup (35 PTS)  (DAL 91-91 SAS)
+(DAL) 02:28.00 Nowitzki Free Throw 1 of 1 (36 PTS)  (DAL 92-91 SAS)
+
+FINAL:
+Dallas Mavericks 99-94 San Antonio Spurs
+LARGEST LEAD:
+Dallas Mavericks 8-5 San Antonio Spurs
+LEAD CHANGES:
+10
+TIMES TIED: 
+10
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+Dirk Nowitzki        DAL    44     41     12     0     
+Tim Duncan           SAS    41     22     14     6     
+Drew Gooden          DAL    36     17     11     0     
+George Hill          SAS    35     15     2      4     
+Jason Terry          DAL    40     13     1      3     
+Richard Jefferson    SAS    41     13     11     2     
+

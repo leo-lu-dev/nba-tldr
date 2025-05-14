@@ -1,0 +1,33 @@
+2025-03-30
+Regular Season
+
+Q1:
+Philadelphia 76ers 31-32 Toronto Raptors
+
+Q2:
+Philadelphia 76ers 18-31 Toronto Raptors
+
+Q3:
+Philadelphia 76ers 33-32 Toronto Raptors
+
+Q4:
+Philadelphia 76ers 27-32 Toronto Raptors
+
+FINAL:
+Philadelphia 76ers 109-127 Toronto Raptors
+LARGEST LEAD:
+Philadelphia 76ers 4-22 Toronto Raptors
+LEAD CHANGES:
+6
+TIMES TIED: 
+4
+TOP PERFORMERS:
+Name                 Team   Min    PTS    REB    AST   
+----------------------------------------------------
+RJ Barrett           TOR    28     31     5      5     
+Lonnie Walker IV     PHI    36     23     3      7     
+Jalen Hood-Schifino  PHI    26     18     2      5     
+Ja'Kobe Walter       TOR    34     17     8      4     
+Ricky Council IV     PHI    35     17     11     3     
+Jamison Battle       TOR    25     16     7      1     
+
