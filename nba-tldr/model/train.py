@@ -3,13 +3,16 @@ from datasets import load_dataset
 from huggingface_hub import login
 import os
 from dotenv import load_dotenv
+import json
+import torch
 
 load_dotenv()
 
 login(token=os.getenv('TOKEN'))
+model_name = 'meta-llama/Llama-2-7b-hf'
 
-tokenizer = AutoTokenizer.from_pretrained('meta-llama/Llama-2-7b')
-model = AutoModelForCausalLM.from_pretrained('meta-llama/Llama-2-7b')
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name)
 
 train_data = load_dataset('json', data_files='../../data/train.json')
 test_data = load_dataset('json', data_files='../../data/test.json')
