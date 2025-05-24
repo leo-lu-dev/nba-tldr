@@ -6,3 +6,6 @@ accelerate
 bitsandbytes
 torch
 nba_api
+huggingface_hub
+unsloth
+trl

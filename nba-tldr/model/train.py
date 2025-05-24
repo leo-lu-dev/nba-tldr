@@ -1,64 +1,83 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM, Trainer, TrainingArguments, DataCollatorForLanguageModeling
-from datasets import load_dataset
-from huggingface_hub import login
-import os
-from dotenv import load_dotenv
-import json
 import torch
+from datasets import load_dataset
+from transformers import TrainingArguments, DataCollatorForLanguageModeling
+from unsloth import FastLanguageModel
 
-load_dotenv()
+MODEL_NAME = "unsloth/llama-2-7b-bnb-4bit"  # 4-bit LLaMA 2
 
-login(token=os.getenv('TOKEN'))
-model_name = 'meta-llama/Llama-2-7b-hf'
+model, tokenizer = FastLanguageModel.from_pretrained(
+    model_name=MODEL_NAME,
+    use_cache=False,
+    device_map="auto",
+    dtype=torch.float16,
+    load_in_4bit=True,
+    attn_implementation="eager"
+)
 
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForCausalLM.from_pretrained(model_name)
+model = FastLanguageModel.get_peft_model(
+    model,
+    r=16,
+    lora_alpha=16,
+    lora_dropout=0.05,
+    bias="none",
+)
 
-train_data = load_dataset('json', data_files='../../data/train.json')
-test_data = load_dataset('json', data_files='../../data/test.json')
+train_dataset = load_dataset('json', data_files='../../data/train.jsonl')['train']
+eval_dataset = load_dataset('json', data_files='../../data/test.jsonl')['train']
+
+def format_example(example):
+    return {
+        "text": f"<s>[INST] {example['info']} [/INST] {example['summary']} </s>"
+    }
+
+train_dataset = train_dataset.map(format_example)
+eval_dataset = eval_dataset.map(format_example)
 
 def tokenize(example):
-    tokenized = tokenizer(
-        example["prompt"] + "\n" + example["completion"],
+    return tokenizer(
+        example["text"],
         truncation=True,
         padding="max_length",
-        max_length=1024,
+        max_length=2048,
+        return_tensors="pt"
     )
-    tokenized["labels"] = tokenized["input_ids"].copy()
-    return tokenized
 
-train_data = train_data.map(tokenize, batched=True)
-test_data = test_data.map(tokenize, batched=True)
+train_dataset = train_dataset.map(tokenize, batched=True, remove_columns=train_dataset.column_names)
+eval_dataset = eval_dataset.map(tokenize, batched=True, remove_columns=eval_dataset.column_names)
 
-data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
-
-args = TrainingArguments(
-    output_dir='./results/fine_tuned_model',
-    evaluation_strategy='epoch',
-    learning_rate=3e-5,
-    per_device_train_batch_size=4,
-    per_device_eval_batch_size=4,
+training_args = TrainingArguments(
+    output_dir="nba-tldr-model",
     num_train_epochs=3,
-    weight_decay=0.01,
+    per_device_train_batch_size=1,
+    gradient_accumulation_steps=4,
+    warmup_steps=50,
     logging_steps=10,
-    fp16=True,
-    max_grad_norm=1.0,
-    load_best_model_at_end=True,
-    save_steps=500,
+    save_strategy="epoch",
+    learning_rate=2e-5,
+    bf16=True,
+    logging_dir="./logs",
+    report_to="none"
 )
+
+data_collator = DataCollatorForLanguageModeling(
+    tokenizer=tokenizer, mlm=False
+)
+
+from transformers import Trainer
 
 trainer = Trainer(
     model=model,
-    args=args,
-    train_dataset=train_data,
-    eval_dataset=test_data,
-    tokenizer=tokenizer,
-    data_collator=data_collator
+    args=training_args,
+    train_dataset=train_dataset,
+    eval_dataset=eval_dataset,
+    data_collator=data_collator,
 )
 
-trainer.train()
+train_output = trainer.train()
+print(train_output)
+
 results = trainer.evaluate()
 print(results)
 
-trainer.save_model('./results/fine_tuned_model')
-tokenizer.save_pretrained('./results/fine_tuned_model')
+model.save_pretrained("nba-tldr-model")
+tokenizer.save_pretrained("nba-tldr-model")
