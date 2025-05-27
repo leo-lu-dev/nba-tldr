@@ -1,9 +1,9 @@
-## NBA TL;DR
+# NBA TL;DR
 NBA TL;DR is a summary generator for NBA games, with the use of a fine-tuned LLaMA 2 7B model.
 
 This project leverages official NBA game data via open source API client [nba_api](https://github.com/swar/nba_api), structures important game data with **pandas**, and uses **Unsloth**, **PyTorch**, and **Hugging Face** for efficient fine-tuning.
 
-# Data Extraction and Formatting
+## Data Extraction and Formatting
 
 The project uses [nba_api](https://github.com/swar/nba_api) to pull play-by-play logs, box scores, and game details. These are converted into structured DataFrames with **pandas**, then formatted into plain-text input for the model.
 
@@ -44,7 +44,7 @@ Davion Mitchell      MIA    36     16     4      5
 Tyler Herro          MIA    36     13     4      3 
 ``` </pre>
 
-# Model Fine-Tuning
+## Model Fine-Tuning
 Game data is paired with a corresponding summary and added to a JSONL file for model fine-tuning.
 
 <pre lang="markdown"> ```json
@@ -56,6 +56,6 @@ Game data is paired with a corresponding summary and added to a JSONL file for m
 
 The LLaMA 2 7B model is fine-tuned using Unsloth, a wrapper around PyTorch and Hugging Face Transformers. This allows for more optimized, efficient training on a consumer GPU. Training is conducted using Hugging Face`s **Trainer API** with prompt-response pairs like the one above.
 
-# Future Work
+## Future Work
 - Add a larger number of diverse game examples to training dataset for higher quality summaries.
 - Add automated evaluation metrics
