@@ -18,7 +18,7 @@ def process_game(game_id):
     return summary
 
 def output_file(out, game_id, summary):
-    with open(f'../data/formatted/{game_id}.txt', 'w', encoding='utf-8') as file:
+    with open(f'../data/info/{game_id}.txt', 'w', encoding='utf-8') as file:
         file.write(f"{summary}\n")
 
 def main():

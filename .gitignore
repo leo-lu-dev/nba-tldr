@@ -1,8 +1,12 @@
-util.py
 model_config.json
-*.jsonl
 test.py
-set.txt
 __pycache__
 .env
 env
+formatted
+info
+unsloth_compiled_cache
+nba-tldr-model
+.zip
+fetch_ids.py
+info.py

@@ -1,6 +1,6 @@
 import torch
 from datasets import load_dataset
-from transformers import TrainingArguments, DataCollatorForLanguageModeling
+from transformers import TrainingArguments, DataCollatorForLanguageModeling, Trainer
 from unsloth import FastLanguageModel
 
 MODEL_NAME = "unsloth/llama-2-7b-bnb-4bit"  # 4-bit LLaMA 2
@@ -33,17 +33,39 @@ def format_example(example):
 train_dataset = train_dataset.map(format_example)
 eval_dataset = eval_dataset.map(format_example)
 
+# print(train_dataset[0])
+
 def tokenize(example):
-    return tokenizer(
+    encoded = tokenizer(
         example["text"],
         truncation=True,
         padding="max_length",
         max_length=2048,
         return_tensors="pt"
     )
+    
+    input_ids = encoded["input_ids"][0]
+    attention_mask = encoded["attention_mask"][0]
+    
+    end_inst_token_id = tokenizer.convert_tokens_to_ids("[/INST]")
+    
+    try:
+        matches = (input_ids == end_inst_token_id).nonzero(as_tuple=True)[0]
+        sep_index = matches[0].item() if len(matches) > 0 else 0
+    except IndexError:
+        sep_index = 0
+    
+    labels = input_ids.clone()
+    labels[:sep_index + 1] = -100
+    
+    return {
+        "input_ids": input_ids,
+        "attention_mask": attention_mask,
+        "labels": labels,
+    }
 
-train_dataset = train_dataset.map(tokenize, batched=True, remove_columns=train_dataset.column_names)
-eval_dataset = eval_dataset.map(tokenize, batched=True, remove_columns=eval_dataset.column_names)
+train_dataset = train_dataset.map(tokenize, remove_columns=train_dataset.column_names)
+eval_dataset = eval_dataset.map(tokenize, remove_columns=eval_dataset.column_names)
 
 training_args = TrainingArguments(
     output_dir="nba-tldr-model",
@@ -60,10 +82,9 @@ training_args = TrainingArguments(
 )
 
 data_collator = DataCollatorForLanguageModeling(
-    tokenizer=tokenizer, mlm=False
+    tokenizer=tokenizer, 
+    mlm=False,
 )
-
-from transformers import Trainer
 
 trainer = Trainer(
     model=model,
@@ -72,7 +93,6 @@ trainer = Trainer(
     eval_dataset=eval_dataset,
     data_collator=data_collator,
 )
-
 train_output = trainer.train()
 print(train_output)
 
