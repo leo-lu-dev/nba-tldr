@@ -64,9 +64,9 @@ Summaries generated with the fine-tuned model
 NBA Finals Game 7
 Cleveland Cavaliers (93) vs (89) Golden State Warriors
 
-The Cavaliers and Warriors played a close and defensive Game 7, with both teams trading momentum throughout. The fourth quarter was especially tight, as neither side was able to build separation until Cleveland pulled ahead in the final minutes. The Cavaliers held on in the closing possessions to secure the win, outscoring the Warriors 18–13 in the fourth.
+>The Cavaliers and Warriors played a close and defensive Game 7, with both teams trading momentum throughout. The fourth quarter was especially tight, as neither side was able to build separation until Cleveland pulled ahead in the final minutes. The Cavaliers held on in the closing possessions to secure the win, outscoring the Warriors 18–13 in the fourth.
 
-LeBron James led Cleveland with 27 points, 11 rebounds, and 11 assists. Kyrie Irving added 26 points, including a key three-pointer late in the game, while Kevin Love contributed 9 rebounds and timely defense. For Golden State, Draymond Green posted 32 points, 15 rebounds, and 9 assists, while Stephen Curry finished with 17 points and 5 assists. Klay Thompson contributed 14 points, but the Warriors managed only 89 points in the loss.
+>LeBron James led Cleveland with 27 points, 11 rebounds, and 11 assists. Kyrie Irving added 26 points, including a key three-pointer late in the game, while Kevin Love contributed 9 rebounds and timely defense. For Golden State, Draymond Green posted 32 points, 15 rebounds, and 9 assists, while Stephen Curry finished with 17 points and 5 assists. Klay Thompson contributed 14 points, but the Warriors managed only 89 points in the loss.
 ```
 
 ```txt
@@ -74,9 +74,9 @@ LeBron James led Cleveland with 27 points, 11 rebounds, and 11 assists. Kyrie Ir
 NBA Finals Game 6
 Utah Jazz (86) vs (87) Chicago Bulls
 
-In a thrilling conclusion to the NBA Finals, the Chicago Bulls edged out the Utah Jazz 87-86 to claim the championship. Michael Jordan was the star of the game, finishing with 45 points and hitting the decisive shot with just 5.2 seconds left, a 17-foot jump shot to give the Bulls the lead for good.
+>In a thrilling conclusion to the NBA Finals, the Chicago Bulls edged out the Utah Jazz 87-86 to claim the championship. Michael Jordan was the star of the game, finishing with 45 points and hitting the decisive shot with just 5.2 seconds left, a 17-foot jump shot to give the Bulls the lead for good.
 
-The game saw numerous lead changes and ties, with Utah holding a slight lead for most of the game. Karl Malone led the Jazz with 31 points and 11 rebounds, including a critical jump shot that gave Utah a brief 79-77 lead in the final minutes. John Stockton added 10 points, including a crucial 24-foot three-pointer that put Utah up 86-83. However, the Bulls were able to respond with clutch plays, including free throws from Dennis Rodman and Jordan, setting up Jordan's game-winning shot.
+>The game saw numerous lead changes and ties, with Utah holding a slight lead for most of the game. Karl Malone led the Jazz with 31 points and 11 rebounds, including a critical jump shot that gave Utah a brief 79-77 lead in the final minutes. John Stockton added 10 points, including a crucial 24-foot three-pointer that put Utah up 86-83. However, the Bulls were able to respond with clutch plays, including free throws from Dennis Rodman and Jordan, setting up Jordan's game-winning shot.
 ```
 
 ## Future Work
